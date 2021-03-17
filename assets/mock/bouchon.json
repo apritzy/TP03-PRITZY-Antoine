@@ -1,0 +1,12 @@
+[
+    {"titre":"voiture","prix":10000},
+    {"titre":"smartphone","prix":500},
+    {"titre":"verre","prix":3},
+    {"titre":"essence","prix":100},
+    {"titre":"yaourt","prix":3},
+    {"titre":"alcool","prix":15},
+    {"titre":"guitare","prix":100},
+    {"titre":"livres","prix":20},
+    {"titre":"habits","prix":15},
+    {"titre":"bouteille de vin","prix":20}
+]
